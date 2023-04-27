@@ -1,0 +1,6 @@
+﻿  App.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 48 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snake.vcxproj -> C:\Dev\C_PlusPlus\Snake\Release\Snake.exe
